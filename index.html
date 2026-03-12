@@ -1,26 +1,91 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<script src="https://d3js.org/d3.v4.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3.js Tutorial Dashboard</title>
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- D3.js v7 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
-	<script src="packed.js"></script>
-	<h1>Simple Demo 3D.js </h1>
 
-<!-- REF: https://www.dashingd3js.com/basic-building-blocks -->
-<svg width="50" height="50">
-	<circle cx="25" cy="25" r="25" fill="purple" />
-</svg>
-<svg width="50" height="50">
-	<rect x="0" y="0" width="50" height="50" fill="green" />
-</svg>
-<svg width="50" height="50">
-  <line x1="5" y1="5" x2="40" y2="40" stroke="gray" stroke-width="5"  />
-</svg>
-<hr>
-	<p>test</p>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1">D3.js Interactive Tutorial</span>
+        </div>
+    </nav>
 
+    <div class="container-fluid mt-4">
+        <div class="row">
+            <!-- Sidebar -->
+            <div class="col-md-2">
+                <div class="list-group">
+                    <button class="list-group-item list-group-item-action nav-link active" data-chart="vbar">Vertical Bar</button>
+                    <button class="list-group-item list-group-item-action nav-link" data-chart="hbar">Horizontal Bar</button>
+                    <button class="list-group-item list-group-item-action nav-link" data-chart="pie">Pie Chart</button>
+                    <button class="list-group-item list-group-item-action nav-link" data-chart="line">Line Chart</button>
+                    <button class="list-group-item list-group-item-action nav-link" data-chart="scatter">Scatter Plot</button>
+                    <button class="list-group-item list-group-item-action nav-link" data-chart="heatmap">Heatmap</button>
+                    <button class="list-group-item list-group-item-action nav-link" data-chart="map">World Map</button>
+                    <button class="list-group-item list-group-item-action nav-link" data-chart="candle">Candlestick</button>
+                </div>
+            </div>
 
+            <!-- Main Content -->
+            <div class="col-md-10">
+                <div class="card shadow-sm mb-4">
+                    <div class="card-body">
+                        <h2 id="chart-title">Vertical Bar Chart</h2>
+                        <hr>
+                        <div class="row">
+                            <!-- Chart Display -->
+                            <div class="col-md-7">
+                                <div id="chart-container" class="border p-3 bg-light text-center">
+                                    <!-- D3 chart will be rendered here -->
+                                </div>
+                                <div class="mt-3">
+                                    <h5>Advice & Tips</h5>
+                                    <p id="advice-display" class="text-muted"></p>
+                                </div>
+                            </div>
+                            <!-- Code Panel -->
+                            <div class="col-md-5">
+                                <h5>Sample Code</h5>
+                                <pre id="code-display" class="bg-dark text-light p-3 rounded" style="font-size: 0.85rem; max-height: 500px; overflow-y: auto;">
+                                    <!-- Code will be loaded here -->
+                                </pre>
+                                <button class="btn btn-sm btn-outline-primary" onclick="copyCode()">Copy Code</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-<hr>	
+    <!-- Chart Scripts -->
+    <script src="js/charts/bar-vertical.js"></script>
+    <script src="js/charts/bar-horizontal.js"></script>
+    <script src="js/charts/pie.js"></script>
+    <script src="js/charts/line.js"></script>
+    <script src="js/charts/scatter.js"></script>
+    <script src="js/charts/heatmap.js"></script>
+    <script src="js/charts/map.js"></script>
+    <script src="js/charts/candlestick.js"></script>
+    
+    <!-- Main App Script -->
+    <script src="js/main.js"></script>
+
+    <script>
+        function copyCode() {
+            const code = document.getElementById('code-display').innerText;
+            navigator.clipboard.writeText(code).then(() => {
+                alert('Code copied to clipboard!');
+            });
+        }
+    </script>
 </body>
 </html>
