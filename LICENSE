@@ -1,4 +1,4 @@
-# PROPRIETARY LICENSE & USAGE RESTRICTIONS
+# PROPRIETARY LICENSE & USAGE RESTRICTIONS / ข้อกำหนดและสัญญาอนุญาต
 
 **Project: D3.js Interactive Tutorial & Dashboard**
 **Copyright (c) 2026 @tps2015gh.**
@@ -7,23 +7,33 @@
 
 ---
 
-## 1. OWNERSHIP
+## 1. OWNERSHIP / ความเป็นเจ้าของ
 All code, assets, and documentation (collectively, the "Work") contained within this repository are the exclusive property of @tps2015gh. 
+รหัส, ทรัพย์สิน และเอกสารทั้งหมด (รวมเรียกว่า "ผลงาน") ภายในพื้นที่เก็บข้อมูลนี้เป็นทรัพย์สินแต่เพียงผู้เดียวของ @tps2015gh
 
-## 2. LIMITED LICENSE
+## 2. LIMITED LICENSE / สัญญาอนุญาตแบบจำกัด
 Subject to the terms of this License, @tps2015gh grants you a personal, non-exclusive, non-transferable, and non-sublicensable license to:
+ภายใต้เงื่อนไขของสัญญาอนุญาตนี้ @tps2015gh ขอมอบสิทธิ์การใช้งานส่วนบุคคล แบบไม่ผูกขาด ไม่สามารถโอนสิทธิ์ได้ และไม่สามารถให้สิทธิ์ช่วงต่อได้ เพื่อ:
 a)  **Read and Study:** View the Work for educational purposes only.
+    **อ่านและศึกษา:** ดูผลงานเพื่อวัตถุประสงค์ทางการศึกษาเท่านั้น
 b)  **Personal Use:** Use small segments of the D3.js chart logic (the chart functions) in your own separate projects, provided those projects do not compete with the original Work.
+    **การใช้งานส่วนบุคคล:** ใช้ส่วนเล็กๆ ของตรรกะแผนภูมิ D3.js (ฟังก์ชันแผนภูมิ) ในโครงการส่วนตัวของคุณเอง โดยที่โครงการเหล่านั้นต้องไม่เป็นการแข่งขันกับผลงานต้นฉบับ
 
-## 3. PROHIBITIONS
+## 3. PROHIBITIONS / ข้อห้าม
 You are **strictly prohibited** from performing the following actions without explicit written permission from @tps2015gh:
+คุณได้รับ **การห้ามอย่างเด็ดขาด** มิให้ดำเนินการดังต่อไปนี้โดยไม่ได้รับอนุญาตเป็นลายลักษณ์อักษรจาก @tps2015gh:
 a)  **Redistribution:** You may not re-host, mirror, or redistribute the Work on any public or private server, website, or hosting platform (including but not limited to GitHub Pages, Netlify, Vercel, etc.).
+    **การแจกจ่ายซ้ำ:** ห้ามนำผลงานไปโฮสต์ซ้ำ ทำสำเนา หรือแจกจ่ายผลงานบนเซิร์ฟเวอร์ เว็บไซต์ หรือแพลตฟอร์มโฮสติ้งสาธารณะหรือส่วนตัวใดๆ (รวมถึงแต่ไม่จำกัดเพียง GitHub Pages, Netlify, Vercel และอื่นๆ)
 b)  **Competing Services:** You may not use the Work, or any significant derivative of the Work, to create a competing tutorial, "Live Demo," or educational dashboard that functions similarly to the official @tps2015gh version.
+    **บริการที่แข่งขันกัน:** ห้ามมิให้นำผลงานหรือสิ่งที่ดัดแปลงจากผลงานไปใช้เพื่อสร้างบทเรียนสอนการใช้งาน, "Live Demo" หรือแดชบอร์ดเพื่อการศึกษาที่มีลักษณะการทำงานคล้ายกับเวอร์ชันทางการของ @tps2015gh
 c)  **Commercial Use:** You may not sell, rent, or otherwise commercially exploit the Work.
+    **การใช้งานเชิงพาณิชย์:** ห้ามขาย เช่า หรือนำผลงานไปหาประโยชน์ในเชิงพาณิชย์
 
-## 4. NO WARRANTY
+## 4. NO WARRANTY / การปฏิเสธความรับผิดชอบ
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. @TPS2015GH SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE WORK.
+ผลงานนี้ถูกจัดเตรียมตามสภาพ ("AS IS") โดยไม่มีการรับประกันใดๆ ทั้งสิ้น @TPS2015GH จะไม่รับผิดชอบต่อการเรียกร้อง ความเสียหาย หรือความรับผิดอื่นๆ ที่เกิดจากการใช้งานผลงานนี้
 
 ---
 
 **BY DOWNLOADING, CLONING, OR VIEWING THE WORK, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PROPRIETARY LICENSE.**
+**การดาวน์โหลด คัดลอก หรือเข้าดูผลงานนี้ ถือว่าคุณตกลงที่จะผูกพันตามเงื่อนไขของสัญญาอนุญาตนี้**

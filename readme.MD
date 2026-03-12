@@ -69,19 +69,25 @@ __________________________________________________________
 
 ---
 
-## 📜 License & Usage Restrictions
+## 📜 License & Usage Restrictions / ข้อกำหนดและสัญญาอนุญาต
 **Copyright (c) 2026 @tps2015gh. All Rights Reserved.**
 
 This project is provided for **educational and personal reference purposes only**. 
+โครงการนี้จัดทำขึ้นเพื่อ **วัตถุประสงค์ทางการศึกษาและการอ้างอิงส่วนบุคคลเท่านั้น**
 
-### 🚫 Prohibited Actions:
+### 🚫 Prohibited Actions / ข้อห้าม:
 - **No Redistribution:** You may not redistribute, mirror, or re-host this code on any public website, server, or platform (including GitHub Pages, Netlify, Vercel, etc.).
+  - **ห้ามแจกจ่ายซ้ำ:** ไม่อนุญาตให้แจกจ่าย ทำซ้ำ หรือนำรหัสนี้ไปโฮสต์บนเว็บไซต์ เซิร์ฟเวอร์ หรือแพลตฟอร์มสาธารณะใดๆ (รวมถึง GitHub Pages, Netlify, Vercel และอื่นๆ)
 - **No Competing Services:** You are strictly forbidden from using this code to create a competing tutorial, "Live Demo," or educational dashboard that functions similarly to the official Live Demo.
+  - **ห้ามสร้างบริการที่แข่งขันกัน:** ห้ามมิให้นำรหัสนี้ไปใช้เพื่อสร้างบทเรียนสอนการใช้งาน, "Live Demo" หรือแดชบอร์ดเพื่อการศึกษาที่มีลักษณะการทำงานคล้ายกับ Live Demo ต้นฉบับนี้โดยเด็ดขาด
 - **Commercial Use:** Commercial use of this specific dashboard structure and educational content is prohibited.
+  - **การใช้งานเชิงพาณิชย์:** ห้ามนำโครงสร้างแดชบอร์ดและเนื้อหาเพื่อการศึกษานี้ไปใช้ในเชิงพาณิชย์
 
-### ✅ Permitted Actions:
+### ✅ Permitted Actions / สิ่งที่อนุญาต:
 - **Learning:** You are encouraged to study the code to learn D3.js.
+  - **การเรียนรู้:** สนับสนุนให้ศึกษารหัสเพื่อเรียนรู้การใช้งาน D3.js
 - **Internal Use:** You may copy small snippets of the D3.js logic (the chart functions) for use within your own private projects, provided they do not compete with this tutorial.
+  - **การใช้งานภายใน:** คุณสามารถคัดลอกส่วนเล็กๆ ของตรรกะ D3.js (เช่น ฟังก์ชันสร้างกราฟ) เพื่อใช้ในโครงการส่วนตัวของคุณได้ โดยต้องไม่เป็นการแข่งขันกับบทเรียนสอนการใช้งานนี้
 
 ---
 
