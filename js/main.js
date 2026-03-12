@@ -7,6 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'scatter': drawScatter,
         'heatmap': drawHeatmap,
         'map': drawMap,
+        'map-thai': drawMapThai,
+        'map-thai-provinces': drawMapThaiProvinces,
         'candle': drawCandlestick
     };
 
@@ -60,6 +62,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 title: 'World Map',
                 advice: 'Geographical visualization using GeoJSON and Mercator projection.',
                 file: 'js/charts/map.js'
+            },
+            'map-thai': {
+                title: 'Map of Thailand',
+                advice: 'A simple D3.js map of Thailand, showing the national outline. Useful for general geographical context.',
+                file: 'js/charts/map-thai.js'
+            },
+            'map-thai-provinces': {
+                title: 'Map of Thailand by Province (Thematic)',
+                advice: 'Visualizes data across Thailand\'s provinces, with each province colored based on a sample numerical value. Adapt `provinceData` for your own datasets.',
+                file: 'js/charts/map-thai-provinces.js'
             },
             'candle': {
                 title: 'Candlestick Chart',

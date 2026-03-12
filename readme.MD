@@ -21,6 +21,8 @@ We believe that learning complex libraries like D3.js shouldn't require sifting 
 - **Scatter Plot:** Correlation between two variables.
 - **Heatmap:** Intensity across two dimensions.
 - **World Map:** Geographic data visualization (GeoJSON).
+- **Map of Thailand:** Basic national outline.
+- **Map of Thailand by Province:** Thematic map coloring provinces by data.
 - **Candlestick Chart:** Financial data analysis (OHLC).
 
 ## 🚀 How to Use
