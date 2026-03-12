@@ -16,7 +16,11 @@
 3.  **Core Implementation:**
     - Upgraded D3.js to **v7**.
     - Developed 8 distinct chart types (Vertical Bar, Horizontal Bar, Pie, Line, Scatter, Heatmap, World Map, Candlestick).
+    - Added **Map of Thailand** and **Thematic Map of Thailand by Province**.
     - Created `main.js` for dynamic chart rendering and code display.
+4.  **Data Source Management:**
+    - Identified and integrated a more accurate GeoJSON data source for Thailand provinces from `cvibhagool/thailand-map`.
+    - Added attribution for the GeoJSON data source in `readme.MD`.
 4.  **UI/UX:**
     - Designed a Bootstrap 5 dashboard with a responsive sidebar.
     - Added interactive advice and tips for each chart.
