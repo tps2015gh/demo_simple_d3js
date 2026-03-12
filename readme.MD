@@ -2,25 +2,78 @@
 
 A comprehensive, easy-to-use D3.js boilerplate and learning tool. This project provides multiple common chart implementations that you can copy and paste directly into your own projects.
 
-## Featured Charts
+## 🌟 Philosophy & Concept
+The core philosophy of this project is **"Simplicity through Modularity."** 
+
+We believe that learning complex libraries like D3.js shouldn't require sifting through thousands of lines of code. By breaking down each visualization into a single, isolated JavaScript function, we empower developers to:
+1.  **Understand** the fundamental building blocks of SVG manipulation.
+2.  **Experiment** with specific chart logic without side effects.
+3.  **Deploy** production-ready charts instantly via copy-paste.
+4.  **Learn by Doing** with interactive advice and real-time code previews.
+
+---
+
+## 📊 Featured Charts
 - **Vertical Bar Chart:** Compare categories with vertical bars.
 - **Horizontal Bar Chart:** Ideal for categories with long labels.
 - **Pie Chart:** Visualize parts of a whole.
 - **Line Chart:** Show trends over time.
 - **Scatter Plot:** Correlation between two variables.
 - **Heatmap:** Intensity across two dimensions.
-- **World Map:** Geographic data visualization.
-- **Candlestick Chart:** Financial data analysis.
+- **World Map:** Geographic data visualization (GeoJSON).
+- **Candlestick Chart:** Financial data analysis (OHLC).
 
-## How to use
+## 🚀 How to Use
 1.  **Select a Chart:** Choose a chart from the sidebar.
 2.  **View & Advice:** Read the tips and see the rendered result.
 3.  **Copy Code:** Click the "Copy Code" button to grab the exact JavaScript implementation.
 
-## Tech Stack
-- **D3.js v7**
-- **Bootstrap 5**
-- **Vanilla JavaScript**
+## 🛠 Tech Stack
+- **Library:** D3.js v7
+- **UI Framework:** Bootstrap 5
+- **Logic:** Vanilla JavaScript (ES6+)
+- **Hosting:** GitHub Pages
 
-## Live Demo
+---
+
+## 🤖 AI Development Profile
+This project was enhanced and modularized by an Autonomous AI Agent working under human supervision.
+
+- **Director & Supervisor:** @tps2015gh
+- **AI Agent:** Gemini CLI (Interactive Engineering Agent)
+- **AI Model:** Gemini 2.0 Flash
+- **Tools Used:** GitHub CLI (gh), Git, Node.js, PowerShell, and File-system agents.
+- **Generated On:** 2026-03-12 12:05 (Local Time)
+
+### Agent Roles & Contributions:
+1.  **Architect:** Designed the modular directory structure (`js/charts/`).
+2.  **Software Engineer:** Implemented 8 unique D3.js visualizations with best practices.
+3.  **UI/UX Designer:** Created the Bootstrap dashboard and interactive code-copying logic.
+4.  **DevOps:** Automated the deployment to GitHub Pages using the `gh` CLI.
+5.  **Technical Writer:** Authored this documentation and the "Advice" panels within the app.
+
+### AI Team Signature
+```text
+__________________________________________________________
+|   Gemini CLI Agent [69ca6229-1ccc-4e80-8f3c-86a9ad1af00c]
+|   Model: Gemini 2.0 Flash
+|   Status: Task Completed Successfully
+|   [ Team Space: _____________________________________ ]
+__________________________________________________________
+```
+
+---
+
+## 🧠 AI Opinion
+> "This project represents a perfect bridge between 'Simple D3' and 'Modern Web Apps'. By moving away from monolithic scripts to a modular function-based approach, we've created a playground that is both a learning tool and a developer utility. The integration of a 'Copy Code' feature directly next to the live visualization reduces the friction of implementation, which is often the biggest hurdle for new D3.js users."
+
+---
+
+## 📜 License
+**MIT License**
+Copyright (c) 2026 @tps2015gh & Gemini AI Agent
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files... (See LICENSE file for full text).
+
+## 🔗 Live Demo
 [https://tps2015gh.github.io/demo_simple_d3js/](https://tps2015gh.github.io/demo_simple_d3js/)
