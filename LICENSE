@@ -14,20 +14,20 @@ All code, assets, and documentation (collectively, the "Work") contained within 
 ## 2. LIMITED LICENSE / สัญญาอนุญาตแบบจำกัด
 Subject to the terms of this License, @tps2015gh grants you a personal, non-exclusive, non-transferable, and non-sublicensable license to:
 ภายใต้เงื่อนไขของสัญญาอนุญาตนี้ @tps2015gh ขอมอบสิทธิ์การใช้งานส่วนบุคคล แบบไม่ผูกขาด ไม่สามารถโอนสิทธิ์ได้ และไม่สามารถให้สิทธิ์ช่วงต่อได้ เพื่อ:
-a)  **Read and Study:** View the Work for educational purposes only.
+a)  **Read and Study:** View the Work for educational purposes.
     **อ่านและศึกษา:** ดูผลงานเพื่อวัตถุประสงค์ทางการศึกษาเท่านั้น
-b)  **Personal Use:** Use small segments of the D3.js chart logic (the chart functions) in your own separate projects, provided those projects do not compete with the original Work.
-    **การใช้งานส่วนบุคคล:** ใช้ส่วนเล็กๆ ของตรรกะแผนภูมิ D3.js (ฟังก์ชันแผนภูมิ) ในโครงการส่วนตัวของคุณเอง โดยที่โครงการเหล่านั้นต้องไม่เป็นการแข่งขันกับผลงานต้นฉบับ
+b)  **Personal Use:** Clone the repository for personal learning, and use small segments of the D3.js chart logic (the chart functions) in your own separate projects.
+    **การใช้งานส่วนบุคคล:** คัดลอกพื้นที่เก็บข้อมูลเพื่อการเรียนรู้ส่วนบุคคล และใช้ส่วนเล็กๆ ของตรรกะแผนภูมิ D3.js (ฟังก์ชันแผนภูมิ) ในโครงการส่วนตัวของคุณเอง
+c)  **Educational Demonstrations:** Present the "Live Demo" (or local copies) for teaching purposes in classrooms, universities, or internal company training sessions. This includes presenting the project live, or via screen recordings on platforms like YouTube, TikTok, or other social media, provided proper attribution to @tps2015gh is given.
+    **การนำเสนอเพื่อการศึกษา:** นำเสนอ "Live Demo" (หรือสำเนาภายในเครื่อง) เพื่อวัตถุประสงค์ในการสอนในห้องเรียน, มหาวิทยาลัย หรือการฝึกอบรมภายในบริษัท ซึ่งรวมถึงการนำเสนอโครงการแบบสด หรือผ่านการบันทึกหน้าจอลงบนแพลตฟอร์มเช่น YouTube, TikTok หรือโซเชียลมีเดียอื่นๆ โดยต้องมีการระบุแหล่งที่มา (@tps2015gh) อย่างเหมาะสม
 
 ## 3. PROHIBITIONS / ข้อห้าม
 You are **strictly prohibited** from performing the following actions without explicit written permission from @tps2015gh:
 คุณได้รับ **การห้ามอย่างเด็ดขาด** มิให้ดำเนินการดังต่อไปนี้โดยไม่ได้รับอนุญาตเป็นลายลักษณ์อักษรจาก @tps2015gh:
-a)  **Redistribution:** You may not re-host, mirror, or redistribute the Work on any public or private server, website, or hosting platform (including but not limited to GitHub Pages, Netlify, Vercel, etc.).
-    **การแจกจ่ายซ้ำ:** ห้ามนำผลงานไปโฮสต์ซ้ำ ทำสำเนา หรือแจกจ่ายผลงานบนเซิร์ฟเวอร์ เว็บไซต์ หรือแพลตฟอร์มโฮสติ้งสาธารณะหรือส่วนตัวใดๆ (รวมถึงแต่ไม่จำกัดเพียง GitHub Pages, Netlify, Vercel และอื่นๆ)
-b)  **Competing Services:** You may not use the Work, or any significant derivative of the Work, to create a competing tutorial, "Live Demo," or educational dashboard that functions similarly to the official @tps2015gh version.
-    **บริการที่แข่งขันกัน:** ห้ามมิให้นำผลงานหรือสิ่งที่ดัดแปลงจากผลงานไปใช้เพื่อสร้างบทเรียนสอนการใช้งาน, "Live Demo" หรือแดชบอร์ดเพื่อการศึกษาที่มีลักษณะการทำงานคล้ายกับเวอร์ชันทางการของ @tps2015gh
-c)  **Commercial Use:** You may not sell, rent, or otherwise commercially exploit the Work.
-    **การใช้งานเชิงพาณิชย์:** ห้ามขาย เช่า หรือนำผลงานไปหาประโยชน์ในเชิงพาณิชย์
+a)  **Competing Public Re-hosting:** You may not re-host this code on any public website, server, or platform (including but not limited to GitHub Pages, Netlify, Vercel, etc.) if it creates a competing tutorial, "Live Demo," or educational dashboard that functions similarly to the official Live Demo provided by @tps2015gh.
+    **ห้ามโฮสต์ซ้ำในที่สาธารณะเพื่อการแข่งขัน:** ห้ามมิให้นำรหัสนี้ไปโฮสต์ซ้ำบนเว็บไซต์ เซิร์ฟเวอร์ หรือแพลตฟอร์มสาธารณะใดๆ (รวมถึงแต่ไม่จำกัดเพียง GitHub Pages, Netlify, Vercel และอื่นๆ) หากเป็นการสร้างบทเรียนสอนการใช้งาน, "Live Demo" หรือแดชบอร์ดเพื่อการศึกษาที่มีลักษณะการทำงานแข่งขันกับ Live Demo ต้นฉบับที่จัดทำโดย @tps2015gh
+b)  **Commercial Redistribution:** You may not sell, rent, or otherwise commercially redistribute the Work. This specifically excludes using the code as a core component of a for-profit product or service.
+    **การแจกจ่ายเชิงพาณิชย์:** ห้ามมิให้นำผลงานไปขาย ให้เช่า หรือแจกจ่ายในเชิงพาณิชย์โดยเด็ดขาด ซึ่งรวมถึงการนำรหัสไปใช้เป็นส่วนประกอบหลักของผลิตภัณฑ์หรือบริการที่แสวงหาผลกำไร
 
 ## 4. NO WARRANTY / การปฏิเสธความรับผิดชอบ
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. @TPS2015GH SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE WORK.

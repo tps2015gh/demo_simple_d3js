@@ -73,22 +73,20 @@ __________________________________________________________
 ## 📜 License & Usage Restrictions / ข้อกำหนดและสัญญาอนุญาต
 **Copyright (c) 2026 @tps2015gh. All Rights Reserved.**
 
-This project is provided for **educational and personal reference purposes only**. 
-โครงการนี้จัดทำขึ้นเพื่อ **วัตถุประสงค์ทางการศึกษาและการอ้างอิงส่วนบุคคลเท่านั้น**
+This project is provided primarily for **educational and personal reference purposes**. 
+โครงการนี้จัดทำขึ้นเพื่อ **วัตถุประสงค์ทางการศึกษาและการอ้างอิงส่วนบุคคลเป็นหลัก**
 
 ### 🚫 Prohibited Actions / ข้อห้าม:
-- **No Redistribution:** You may not redistribute, mirror, or re-host this code on any public website, server, or platform (including GitHub Pages, Netlify, Vercel, etc.).
-  - **ห้ามแจกจ่ายซ้ำ:** ไม่อนุญาตให้แจกจ่าย ทำซ้ำ หรือนำรหัสนี้ไปโฮสต์บนเว็บไซต์ เซิร์ฟเวอร์ หรือแพลตฟอร์มสาธารณะใดๆ (รวมถึง GitHub Pages, Netlify, Vercel และอื่นๆ)
-- **No Competing Services:** You are strictly forbidden from using this code to create a competing tutorial, "Live Demo," or educational dashboard that functions similarly to the official Live Demo.
-  - **ห้ามสร้างบริการที่แข่งขันกัน:** ห้ามมิให้นำรหัสนี้ไปใช้เพื่อสร้างบทเรียนสอนการใช้งาน, "Live Demo" หรือแดชบอร์ดเพื่อการศึกษาที่มีลักษณะการทำงานคล้ายกับ Live Demo ต้นฉบับนี้โดยเด็ดขาด
-- **Commercial Use:** Commercial use of this specific dashboard structure and educational content is prohibited.
-  - **การใช้งานเชิงพาณิชย์:** ห้ามนำโครงสร้างแดชบอร์ดและเนื้อหาเพื่อการศึกษานี้ไปใช้ในเชิงพาณิชย์
+- **No Competing Public Re-hosting:** You are strictly forbidden from re-hosting this code on any public website, server, or platform (including GitHub Pages, Netlify, Vercel, etc.) if it creates a competing tutorial, "Live Demo," or educational dashboard that functions similarly to the official Live Demo provided by @tps2015gh.
+  - **ห้ามโฮสต์ซ้ำในที่สาธารณะเพื่อการแข่งขัน:** ห้ามมิให้นำรหัสนี้ไปโฮสต์ซ้ำบนเว็บไซต์ เซิร์ฟเวอร์ หรือแพลตฟอร์มสาธารณะใดๆ (รวมถึง GitHub Pages, Netlify, Vercel และอื่นๆ) หากเป็นการสร้างบทเรียนสอนการใช้งาน, "Live Demo" หรือแดชบอร์ดเพื่อการศึกษาที่มีลักษณะการทำงานแข่งขันกับ Live Demo ต้นฉบับที่จัดทำโดย @tps2015gh
+- **Commercial Redistribution:** You may not sell, rent, or otherwise commercially redistribute the Work. This specifically excludes using the code as a core component of a for-profit product or service.
+  - **การแจกจ่ายเชิงพาณิชย์:** ห้ามมิให้นำผลงานไปขาย ให้เช่า หรือแจกจ่ายในเชิงพาณิชย์โดยเด็ดขาด ซึ่งรวมถึงการนำรหัสไปใช้เป็นส่วนประกอบหลักของผลิตภัณฑ์หรือบริการที่แสวงหาผลกำไร
 
 ### ✅ Permitted Actions / สิ่งที่อนุญาต:
-- **Learning:** You are encouraged to study the code to learn D3.js.
-  - **การเรียนรู้:** สนับสนุนให้ศึกษารหัสเพื่อเรียนรู้การใช้งาน D3.js
-- **Internal Use:** You may copy small snippets of the D3.js logic (the chart functions) for use within your own private projects, provided they do not compete with this tutorial.
-  - **การใช้งานภายใน:** คุณสามารถคัดลอกส่วนเล็กๆ ของตรรกะ D3.js (เช่น ฟังก์ชันสร้างกราฟ) เพื่อใช้ในโครงการส่วนตัวของคุณได้ โดยต้องไม่เป็นการแข่งขันกับบทเรียนสอนการใช้งานนี้
+- **Learning & Personal Use:** You are encouraged to study the code, clone the repository for personal learning, and use small snippets of the D3.js chart logic (the chart functions) in your own separate projects.
+  - **การเรียนรู้และการใช้งานส่วนบุคคล:** สนับสนุนให้ศึกษารหัส, คัดลอกพื้นที่เก็บข้อมูลเพื่อการเรียนรู้ส่วนบุคคล และใช้ส่วนเล็กๆ ของตรรกะ D3.js (เช่น ฟังก์ชันสร้างกราฟ) ในโครงการส่วนตัวของคุณเอง
+- **Educational Demonstrations:** You may use the "Live Demo" (or local copies) for teaching purposes in classrooms, universities, or internal company training sessions. This includes presenting the project live, or via screen recordings on platforms like YouTube, TikTok, or other social media, provided proper attribution to @tps2015gh is given.
+  - **การนำเสนอเพื่อการศึกษา:** คุณสามารถใช้ "Live Demo" (หรือสำเนาภายในเครื่อง) เพื่อวัตถุประสงค์ในการสอนในห้องเรียน, มหาวิทยาลัย หรือการฝึกอบรมภายในบริษัท ซึ่งรวมถึงการนำเสนอโครงการแบบสด หรือผ่านการบันทึกหน้าจอลงบนแพลตฟอร์มเช่น YouTube, TikTok หรือโซเชียลมีเดียอื่นๆ โดยต้องมีการระบุแหล่งที่มา (@tps2015gh) อย่างเหมาะสม
 
 ---
 
