@@ -69,11 +69,21 @@ __________________________________________________________
 
 ---
 
-## 📜 License
-**MIT License**
-Copyright (c) 2026 @tps2015gh & Gemini AI Agent
+## 📜 License & Usage Restrictions
+**Copyright (c) 2026 @tps2015gh. All Rights Reserved.**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files... (See LICENSE file for full text).
+This project is provided for **educational and personal reference purposes only**. 
 
-## 🔗 Live Demo
+### 🚫 Prohibited Actions:
+- **No Redistribution:** You may not redistribute, mirror, or re-host this code on any public website, server, or platform (including GitHub Pages, Netlify, Vercel, etc.).
+- **No Competing Services:** You are strictly forbidden from using this code to create a competing tutorial, "Live Demo," or educational dashboard that functions similarly to the official Live Demo.
+- **Commercial Use:** Commercial use of this specific dashboard structure and educational content is prohibited.
+
+### ✅ Permitted Actions:
+- **Learning:** You are encouraged to study the code to learn D3.js.
+- **Internal Use:** You may copy small snippets of the D3.js logic (the chart functions) for use within your own private projects, provided they do not compete with this tutorial.
+
+---
+
+## 🔗 Official Live Demo
 [https://tps2015gh.github.io/demo_simple_d3js/](https://tps2015gh.github.io/demo_simple_d3js/)

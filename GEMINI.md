@@ -25,8 +25,11 @@
     - Used `gh` CLI to enable GitHub Pages on the `master` branch.
     - Updated repository metadata (homepage URL).
 6.  **Documentation:**
-    - Refactored `readme.MD` with a modern project philosophy, AI development details, and MIT license.
+    - Refactored `readme.MD` with a modern project philosophy, AI development details, and a restrictive proprietary license.
     - Created this `GEMINI.md` log for future agent context.
+7.  **License & IP Protection:**
+    - Replaced the permissive MIT license with a custom **Proprietary License** (All Rights Reserved) to protect against re-hosting and competing tutorials.
+    - Added a formal `LICENSE` file with specific "No-Redistribution" and "No Competing Service" clauses.
 
 ---
 
@@ -34,6 +37,7 @@
 - **Modularity:** Focused on making code "copy-pasteable" by isolating chart logic into standalone functions.
 - **D3.js v7 vs v4:** Upgraded to the latest stable version of D3.js to ensure long-term compatibility and use of modern patterns (like `.join()`).
 - **User Education:** Prioritized teaching the "why" (advice/tips) alongside the "how" (code snippets).
+- **IP Protection:** Moved to a proprietary license model to prevent cloning for competing "Live Demo" websites while still allowing educational access.
 
 ---
 
