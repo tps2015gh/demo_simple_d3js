@@ -27,7 +27,9 @@
 6.  **Documentation:**
     - Refactored `readme.MD` with a modern project philosophy, AI development details, and a restrictive proprietary license.
     - Created this `GEMINI.md` log for future agent context.
-7.  **License & IP Protection:**
+7.  **Legal Document Author & Translator:**
+    - Drafted the proprietary license terms and added comprehensive English and Thai translations to `readme.MD` and a dedicated `LICENSE` file.
+8.  **License & IP Protection:**
     - Replaced the permissive MIT license with a custom **Proprietary License** (All Rights Reserved) to protect against re-hosting and competing tutorials.
     - Added a formal `LICENSE` file with specific "No-Redistribution" and "No Competing Service" clauses.
 

@@ -51,6 +51,7 @@ This project was enhanced and modularized by an Autonomous AI Agent working unde
 3.  **UI/UX Designer:** Created the Bootstrap dashboard and interactive code-copying logic.
 4.  **DevOps:** Automated the deployment to GitHub Pages using the `gh` CLI.
 5.  **Technical Writer:** Authored this documentation and the "Advice" panels within the app.
+6.  **Legal Document Author & Translator:** Drafted the proprietary license terms and provided comprehensive English and Thai translations.
 
 ### AI Team Signature
 ```text
